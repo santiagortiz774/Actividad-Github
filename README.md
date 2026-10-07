@@ -31,7 +31,7 @@ Nota: No requiere dependencias.
 
 **Quiroga Bruno**: README  
 
-**Ojeda Fausto**: Commits y merges
+**Ojeda Fausto**: Commits y merge
 
 ---
 
