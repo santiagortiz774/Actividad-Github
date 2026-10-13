@@ -27,11 +27,11 @@ Nota: No requiere dependencias.
 ---
 
 ## Integrantes
-**Ortiz Santiago**: estructura HTML y estilos CSS  
+**Ortiz Santiago**: estructura HTML, estilos CCS y rama 
 
-**Quiroga Bruno**: README  
+**Quiroga Bruno**: README y rama
 
-**Ojeda Fausto**: Commits y merge
+**Ojeda Fausto**: Merge y rama
 
 ---
 
