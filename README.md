@@ -31,7 +31,7 @@ Nota: No requiere dependencias.
 
 **Quiroga Bruno**: README y rama
 
-**Ojeda Fausto**: Merge y rama
+**Ojeda Fausto**: Merge
 
 ---
 
